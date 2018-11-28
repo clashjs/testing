@@ -1,12 +1,9 @@
 # Testing Tools
 
-1. [Mocha](https://mochajs.org/)
-2. [Jasmine](https://jasmine.github.io/)
-3. [Jest](https://facebook.github.io/jest/)
-4. [Enzyme](http://airbnb.io/enzyme/)
-5. [Tape](https://github.com/substack/tape)
-6. [Ava](https://github.com/avajs/ava)
-
----
-
-* [Karma](http://karma-runner.github.io/)
+1. [Jest](https://jestjs.io/)
+2. [Mocha](https://mochajs.org/)
+3. [Jasmine](https://jasmine.github.io/)
+4. [Enzyme](https://airbnb.io/enzyme/)
+5. [Karma](http://karma-runner.github.io/)
+6. [Storybook](https://storybook.js.org/)
+7. [Ava](https://github.com/avajs/ava)
